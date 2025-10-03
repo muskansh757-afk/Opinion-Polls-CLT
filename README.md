@@ -14,7 +14,20 @@ This project uses **simulations of opinion polls** (Yes/No responses) to show ho
 ## 📊 Visualization  
 The project shows histograms of sample means.  
 - Small sample sizes → more variability, not very "normal".  
-- Larger sample sizes → distribution becomes smoother and closer to a bell curve.  
+- Larger sample sizes → distribution becomes smoother and closer to a bell curve.
+
+
+# Opinion-Polls-CLT
+
+Exploring Central Limit Theorem through simulated opinion polls.
+
+## 📊 Visualization
+
+Here is how the sample means converge to a normal distribution as sample size increases:
+
+![CLT Histogram](CLT_histogram.png)
+
+
 
 ## 🚀 How to Run  
 1. Clone this repo  
