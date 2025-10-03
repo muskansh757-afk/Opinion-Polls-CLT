@@ -1,5 +1,3 @@
-# Opinion-Polls-CLT
-Exploring Central Limit Theorem through simulated opinion polls.
 # Opinion-Polls-CLT  
 
 Exploring the **Central Limit Theorem (CLT)** through simulated opinion polls.  
