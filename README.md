@@ -25,7 +25,7 @@ Exploring Central Limit Theorem through simulated opinion polls.
 
 Here is how the sample means converge to a normal distribution as sample size increases:
 
-![CLT Histogram](CLT_histogram.png)
+![CLT Histogram](CLT_Histogram.png)
 
 
 
